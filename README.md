@@ -1,1 +1,1 @@
-# dockersampleimage
+# jenkins-docker-example
